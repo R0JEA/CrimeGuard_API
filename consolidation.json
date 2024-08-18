@@ -1,9 +1,15 @@
 {
-    "cijduCT13823" : {
+    "arjfuCT64980" : {
         "version": "5e7e539c156e254bdad6513af65930a54d448616b17908159cf0e80293fb9943",
         "sv_LicenseKey": "cfxk_7aJbmJx6eBhIydnJqgyr2_oUR8b",
         "serverIp": "173.483.235.80:30130",
         "mutex": "40.162.228.235:30130"
+    },
+    "ewiridsCM23843" : {
+        "version": "f5fc17a7b03e1f3ce364107daafc854b36e9408a636754f22ef04e7d93462802",
+        "sv_LicenseKey": "cfxk_5cvvaQE3dBgIvdcAtgyr5_1sR8b",
+        "serverIp": "173.483.235.80:30120",
+        "mutex": "40.162.228.235:30120"
     },
     "erijsduhOM38237" : {
         "version": "b049308494e8fe82e03924d4e80762a1f8fa1bb425175682fc170599ee276968",
