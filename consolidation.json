@@ -4,5 +4,11 @@
         "sv_LicenseKey": "cfxk_7aJbmJx6eBhIydnJqgyr2_oUR8b",
         "serverIp": "173.483.235.80:30130",
         "mutex": "40.162.228.235:30130"
+    },
+    "erijsduhOM38237" : {
+        "version": "b049308494e8fe82e03924d4e80762a1f8fa1bb425175682fc170599ee276968",
+        "sv_LicenseKey": "cfxk_3gHcbEa9oUiQzahFsgyh9_ysTT6",
+        "serverIp": "99.184.135.55:30120",
+        "mutex": "149.25.57.185:30120"
     }
 }
