@@ -16,5 +16,11 @@
         "sv_LicenseKey": "cfxk_3gHcbEa9oUiQzahFsgyh9_ysTT6",
         "serverIp": "99.184.135.55:30120",
         "mutex": "149.25.57.185:30120"
+    },
+    "tiesriTE39249" : {
+        "version": "2a4c286ba310efc3056d11e10a92f8b5431c76e07274de35f6d573ec31f3d296",
+        "sv_LicenseKey": "cfxk_3ghheAH7dFhIuk_Rgv465_2g544",
+        "serverIp": "58.180.85.81:40120",
+        "mutex": "188.86.138.226:40120"
     }
 }
