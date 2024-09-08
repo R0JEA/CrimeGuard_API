@@ -22,5 +22,11 @@
         "sv_LicenseKey": "cfxk_3ghheAH7dFhIuk_Rgv465_2g544",
         "serverIp": "58.180.85.81:40120",
         "mutex": "188.86.138.226:40120"
+    },
+    "ijsdjWA68383": {
+        "version": "23277da9a82d6dde03fc24dd5f9a8fe17ae2fd866f88a0f4b51c69ccb5cbe5fd",
+        "sv_LicenseKey": "cfxk_9sfvc467AdfJsq1gvTS679_3g81a",
+        "serverIp": "45.160.99.51:30120",
+        "mutex": "188.209.127.103:30120"
     }
 }
