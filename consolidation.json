@@ -65,14 +65,14 @@
         "serverIp": "40.217.0.37:30120",
         "mutex": "86.153.38.21:30120"
     },
-    {
-        "LZgvsfOr3kii3o4": {
-            "version": "f40a377407da1f36959fc2ba3d5d6d6ff5ac47a63b8ca2efcd666ea56415eb6e",
-            "sv_LicenseKey": "cfxk_TgR9C_W1n7x",
-            "serverIp": "71.78.218.16:30120",
-            "mutex": "220.119.58.65:30120"
-        }
+    
+    "LZgvsfOr3kii3o4": {
+        "version": "f40a377407da1f36959fc2ba3d5d6d6ff5ac47a63b8ca2efcd666ea56415eb6e",
+        "sv_LicenseKey": "cfxk_TgR9C_W1n7x",
+        "serverIp": "71.78.218.16:30120",
+        "mutex": "220.119.58.65:30120"
     }
+    
     
     
 }
