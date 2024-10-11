@@ -1,9 +1,9 @@
 {
-    "arjfuCT64980" : {
+    "EzvCOb_CT_T1NNsZyM": {
         "version": "5e7e539c156e254bdad6513af65930a54d448616b17908159cf0e80293fb9943",
-        "sv_LicenseKey": "cfxk_7aJbmJx6eBhIydnJqgyr2_oUR8b",
-        "serverIp": "173.483.235.80:30130",
-        "mutex": "40.162.228.235:30130"
+        "sv_LicenseKey": "cfxk_3hUJO_1O3Im",
+        "serverIp": "31.110.245.76:30130",
+        "mutex": "52.18.178.262:30130"
     },
     "ewiridsCM23843" : {
         "version": "f5fc17a7b03e1f3ce364107daafc854b36e9408a636754f22ef04e7d93462802",
@@ -72,6 +72,7 @@
         "serverIp": "71.78.218.16:30120",
         "mutex": "220.119.58.65:30120"
     }
+    
     
     
     
