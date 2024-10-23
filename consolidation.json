@@ -77,6 +77,13 @@
         "sv_LicenseKey": "cfxk_edGPO_BW2D4",
         "serverIp": "103.173.80.208:30130",
         "mutex": "52.18.178.262:30130"
+    },
+
+    "b7YsDByXsNCWVlw": {
+        "version": "315eb0fb0fce160c239952a9ddb9a52ec0ae175a52b31f83b232029847f2bd7c",
+        "sv_LicenseKey": "cfxk_6VlF4_dU1pT",
+        "serverIp": "173.178.235.198:3601",
+        "mutex": "69.212.27.238:3601"
     }
     
     
