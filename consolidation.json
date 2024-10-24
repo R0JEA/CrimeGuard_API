@@ -1,12 +1,12 @@
 {
     "EzvCOb_CT_T1NNsZyMLL": {
-        "version": "5e7e539c156e254bdad6513af65930a54d448616b17908159cf0e80293fb9943",
+        "version": "5e7e539c156e254bdad6513af65930a54d448616b17908159cf0e80293fb9943_D",
         "sv_LicenseKey": "cfxk_3hUJO_1O3Im",
         "serverIp": "31.110.245.76:30130",
         "mutex": "52.18.178.262:30130"
     },
     "ewiridsCM23843" : {
-        "version": "f5fc17a7b03e1f3ce364107daafc854b36e9408a636754f22ef04e7d93462802",
+        "version": "f5fc17a7b03e1f3ce364107daafc854b36e9408a636754f22ef04e7d93462802_D",
         "sv_LicenseKey": "cfxk_5cvvaQE3dBgIvdcAtgyr5_1sR8b",
         "serverIp": "173.483.235.80:30120",
         "mutex": "40.162.228.235:30120"
@@ -67,7 +67,7 @@
     },
     
     "LZgvsfOr3kii3o4": {
-        "version": "f40a377407da1f36959fc2ba3d5d6d6ff5ac47a63b8ca2efcd666ea56415eb6e",
+        "version": "f40a377407da1f36959fc2ba3d5d6d6ff5ac47a63b8ca2efcd666ea56415eb6e_D",
         "sv_LicenseKey": "cfxk_TgR9C_W1n7x",
         "serverIp": "71.78.218.16:30120",
         "mutex": "220.119.58.65:30120"
