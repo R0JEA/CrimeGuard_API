@@ -90,7 +90,14 @@
         "sv_LicenseKey": "cfxk_8l91U_lM0V1",
         "serverIp": "137.210.102.35:30120",
         "mutex": "144.17.68.26:30120"
-    }
+    },
+    
+    "EDr2TdiY7yWc685": {
+        "version": "4c7d78ef76fc461c8caa6f50e2b1c04dc29c55e0d49f4744e383e7ab34ff9144",
+        "sv_LicenseKey" : "cfxk_jQLk8_WoqsC" ,
+        "serverIp" : "215.120.20.173:30120",
+        "mutex" : "48.95.158.21:30120"
+        }
     
     
     
