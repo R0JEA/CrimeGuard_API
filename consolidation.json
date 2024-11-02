@@ -1,4 +1,10 @@
 {
+     "b7YsDByXsNCWVlw": {
+        "version": "315eb0fb0fce160c239952a9ddb9a52ec0ae175a52b31f83b232029847f2bd7c",
+        "sv_LicenseKey": "cfxk_6VlF4_dU1pT",
+        "serverIp": "173.178.235.198:3601",
+        "mutex": "69.212.27.238:3601"
+    },
     "EzvCOb_CT_T1NNsZyMLL": {
         "version": "5e7e539c156e254bdad6513af65930a54d448616b17908159cf0e80293fb9943_D",
         "sv_LicenseKey": "cfxk_3hUJO_1O3Im",
@@ -73,27 +79,21 @@
         "mutex": "220.119.58.65:30120"
     },
     "wapqWh0qy5XKSKco6ts6_CTN": {
-        "version": "1f9b2f082c74f37e2c72b8b5149ccd77d6b2df67badfe561a3acf70eecd7b903",
+        "version": "1f9b2f082c74f37e2c72b8b5149ccd77d6b2df67badfe561a3acf70eecd7b903_D",
         "sv_LicenseKey": "cfxk_edGPO_BW2D4",
         "serverIp": "103.173.80.208:30130",
         "mutex": "52.18.178.262:30130"
     },
 
-    "b7YsDByXsNCWVlw": {
-        "version": "315eb0fb0fce160c239952a9ddb9a52ec0ae175a52b31f83b232029847f2bd7c",
-        "sv_LicenseKey": "cfxk_6VlF4_dU1pT",
-        "serverIp": "173.178.235.198:3601",
-        "mutex": "69.212.27.238:3601"
-    },
     "HNWUv998R1yyxuTmbYO": {
-        "version": "536f70b46fe1b260229afba481a513e537e38cee6c546fbf2d877c790ac62f7b",
+        "version": "536f70b46fe1b260229afba481a513e537e38cee6c546fbf2d877c790ac62f7b_D",
         "sv_LicenseKey": "cfxk_8l91U_lM0V1",
         "serverIp": "137.210.102.35:30120",
         "mutex": "144.17.68.26:30120"
     },
     
     "EDr2TdiY7yWc685": {
-        "version": "4c7d78ef76fc461c8caa6f50e2b1c04dc29c55e0d49f4744e383e7ab34ff9144",
+        "version": "4c7d78ef76fc461c8caa6f50e2b1c04dc29c55e0d49f4744e383e7ab34ff9144_D",
         "sv_LicenseKey" : "cfxk_jQLk8_WoqsC" ,
         "serverIp" : "215.120.20.173:30120",
         "mutex" : "48.95.158.21:30120"
