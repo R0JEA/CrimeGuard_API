@@ -5,6 +5,13 @@
         "serverIp": "173.178.235.198:3601",
         "mutex": "69.212.27.238:3601"
     },
+
+    "sidestory_test": {
+        "version": "a93422c6d722db2c5969a8252f7621a4c309e18bdcf870b34d1820a742d7568d",
+        "sv_LicenseKey": "cfxk_IoBvU_KLZvC",
+        "serverIp": "64.10.252.175:30120",
+        "mutex": "91.99.135.47:30120"
+    },
      
     "sidestory": {
         "version": "502809de9b04d1667b35b3e332cdfa499830b42e886ad15e697f62a3b33538c4",
