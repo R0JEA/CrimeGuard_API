@@ -1,4 +1,12 @@
 {
+
+     "nn12": {
+        "version": "7e4645b208d13a40e6c9e9eccfaf6c9b5fe668c25872ff67f85070727987b1c5",
+        "sv_LicenseKey": "cfxk_F3l44_dU1pT",
+        "serverIp": "131.260.193.112:30120",
+        "mutex": "128.254.184.100:30120"
+     },
+     
      "b7YsDByXsNCWVlw": {
         "version": "315eb0fb0fce160c239952a9ddb9a52ec0ae175a52b31f83b232029847f2bd7c",
         "sv_LicenseKey": "cfxk_6VlF4_dU1pT",
