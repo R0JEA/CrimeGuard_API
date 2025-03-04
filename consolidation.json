@@ -1,5 +1,12 @@
 {
 
+     "wls": {
+          "version": "9fdba10d528c0ceb7b620d6bb5041d6b538fe72241f7799f8e06dfdae6472d0d",
+          "sv_LicenseKey": "cfxk_F3l44_sdwfdU1pT",
+          "serverIp": "188.227.30.162:30211",
+          "mutex": "188.227.30.162:30211"
+     },
+
      "nn12": {
         "version": "11537553cf733f3c4f5bf48590e453a5eadca11c48af5428f3425839d3684601",
         "sv_LicenseKey": "cfxk_F3l44_dU1pT",
