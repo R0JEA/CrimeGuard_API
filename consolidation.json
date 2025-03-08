@@ -1,5 +1,10 @@
 {
-
+     "viktor": {
+          "version": "567ac263f48c9442bbc937b0febdd95cf45719979d5b1780f3e0650895148093",
+          "sv_LicenseKey": "cfxk_F3l4oksdi4_sdwfdU1pT",
+          "serverIp": "91.224.214.14:30120",
+          "mutex": "91.224.214.14:30120"
+     },
      "wls": {
           "version": "318ac263f48c9442bbc937b0febdd95cf45719979d5b1780f3e0650895148093",
           "sv_LicenseKey": "cfxk_F3l44_sdwfdU1pT",
